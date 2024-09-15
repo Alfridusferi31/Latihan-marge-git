@@ -1,2 +1,4 @@
 # Latihan-marge-git
-###Masih pemula
+###  Masih pemula
+- belajar java
+- belajar git
