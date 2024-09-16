@@ -3,5 +3,6 @@
 ###  Masih pemula
 - belajar java
 - belajar git
-===
+--
 # study java 
+* semangat terus
